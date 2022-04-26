@@ -23,9 +23,9 @@
 <hr><ul>
 <li>Personalized Resume Builder</li>
 </ul><ul>
-<li>Detailed Portfolio Website</li>
+<li>Detailed Portfolio Website</li></ul>
 
-How to execute code and run project file
+<h2>How to execute code and run project file</h2>
 
 1. Extract the folder and search for index.html file.
 2. Run the index.html file for executing the code and going to Portfolio website (Or one can directly click on the link provided below!!)
@@ -37,7 +37,7 @@ How to execute code and run project file
 8. The Resume Builder website will pop-up and one can download it after filing up the details in the form.
 
 
-</ul><h2>Setup</h2>
+<h2>Setup</h2>
 <hr><ol>
 <li>npm install dependencies</li>
 <li>npm install body-parser</li>
