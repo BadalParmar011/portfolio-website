@@ -30,7 +30,7 @@
 1. Extract the folder and search for index.html file.
 2. Run the index.html file for executing the code and going to Portfolio website (Or one can directly click on the link provided below!!)
 
-https://badalparmar011.github.io/portfolio-website/
+   https://badalparmar011.github.io/portfolio-website/
 
 4. After that open the react folder in the terminal.
 5. Run "npm install" command for installing the node modules in the folder if they are not installed.
@@ -40,7 +40,7 @@ https://badalparmar011.github.io/portfolio-website/
 9. The Resume Builder website will pop-up and one can download it after filing up the details in the form.
 **<h2>
 IMPORTANT!!!**</h2>
-MAKE SURE TO RUN THE "npm run dev" COMMAND IN REACT FOLDER. ALSO, MAKE SURE THAT SERVER IS RUNNING OVER localhost:3000
+MAKE SURE TO RUN THE "npm run dev" COMMAND IN REACT FOLDER. ALSO, MAKE SURE THAT SERVER IS RUNNING OVER http://localhost:3000/
 <h2>Setup</h2>
 <hr><ol>
 <li>npm install dependencies</li>
