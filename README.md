@@ -41,6 +41,7 @@
 **<h2>
 IMPORTANT!!!**</h2>
 MAKE SURE TO RUN THE "npm run dev" COMMAND IN REACT FOLDER. ALSO, MAKE SURE THAT SERVER IS RUNNING OVER http://localhost:3000/
+**FURTHER INSTRUCTIONS ARE PROVIDED IN REACT FOLDER README FILE**
 <h2>Setup</h2>
 <hr><ol>
 <li>npm install dependencies</li>
